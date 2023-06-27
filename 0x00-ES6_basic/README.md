@@ -2,6 +2,18 @@
 * JavaScript
 * ES6
 
+### Learning Objectives
+
+*   What ES6 is
+*   New features introduced in ES6
+*   The difference between a constant and a variable
+*   Block-scoped variables
+*   Arrow functions and function parameters default to them
+*   Rest and spread function parameters
+*   String templating in ES6
+*   Object creation and their properties in ES6
+*   Iterators and for-of loops
+
 ### General Requirements
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 * Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`
@@ -37,15 +49,14 @@ in your project directory:
 
 `package.json`
 
-Click to show/hide file contents
+[Click to show](./package.json)
 
 `babel.config.js`
 
-Click to show/hide file contents
+[Click to show](./babel.config.js)
 
 `.eslintrc.js`
 
-Click to show/hide file contents
 
 ### Finally…
 Don’t forget to run `npm install` from the terminal of your project folder to install all necessary project dependencies.
