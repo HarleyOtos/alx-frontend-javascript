@@ -10,10 +10,10 @@ export default function createIteratorObject(report) {
       const currentEmployee = currentDepartment[currentEmployeeIndex];
 
       if (currentEmployeeIndex < currentDepartment.length - 1) {
-        currentEmployeeIndex++;
+        currentEmployeeIndex += 1;
       } else {
         currentEmployeeIndex = 0;
-        currentDepartmentIndex++;
+        currentDepartmentIndex += 1;
       }
 
       if (currentDepartmentIndex < departments.length) {
