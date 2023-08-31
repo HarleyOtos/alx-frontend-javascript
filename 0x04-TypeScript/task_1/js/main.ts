@@ -9,10 +9,10 @@ interface Teacher {
 
 // Task 1: Teacher interface implemented
 const teacher3: Teacher = {
-  firstName: 'Edward',
-  lastName: 'Okafor',
+  firstName: 'John',
+  lastName: 'Doe',
   fullTimeEmployee: false,
-  location: 'Abuja',
+  location: 'London',
   contract: false,
 };
 
